@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_next.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_next.png"
+    },
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_pause.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_pause.png"
+    },
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_fastforward.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_fastforward.png"
+    },
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_previous.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_previous.png"
+    },
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_play.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_play.png"
+    },
+    {
+        "merged": "/home/obx/CODE/ExoDemo/library/build/intermediates/res/merged/androidTest/debug/drawable-xhdpi-v4/exo_controls_rewind.png",
+        "source": "/home/obx/CODE/ExoDemo/library/build/intermediates/bundles/debug/res/drawable-xhdpi-v4/exo_controls_rewind.png"
+    }
+]
